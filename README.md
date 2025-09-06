@@ -42,12 +42,12 @@ Abra o arquivo index.html no seu navegador.
 ```
 ## 
 
-📌 Observações
+## 📌 Observações
 As duas partes do projeto (frontend e backend) foram feitas para serem independentes, mas trabalham juntas. A aplicação está hospedada no Vercel e Render para demonstração online.
 
 Este projeto foi feito com fins educacionais como parte do curso Full Stack do Dev Club.
 
- 🙋‍♂️ Autor
+ ## 🙋‍♂️ Autor
 Desenvolvido por Jardson
 
 [Meu LinkedIn](https://www.linkedin.com/in/jardsonflorentino) | [Meu GitHub](https://github.com/JardsonFlorentino)
