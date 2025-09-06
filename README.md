@@ -40,7 +40,7 @@ Abra o arquivo index.html no seu navegador.
 ├── package-lock.json
 └── README.md
 ```
-
+## 
 
 📌 Observações
 As duas partes do projeto (frontend e backend) foram feitas para serem independentes, mas trabalham juntas. A aplicação está hospedada no Vercel e Render para demonstração online.
