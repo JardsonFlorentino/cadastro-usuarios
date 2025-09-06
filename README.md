@@ -39,6 +39,7 @@ Abra o arquivo index.html no seu navegador.
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
 
 
 📌 Observações
