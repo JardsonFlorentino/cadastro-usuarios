@@ -6,11 +6,11 @@ Este é um projeto Full Stack completo, com o objetivo de simular um sistema de 
 Ele facilita o registro de novos usuários e a visualização de todos os cadastrados em um ambiente moderno e intuitivo.
 
 ## 🚀 Funcionalidades
-📝 Cadastro de Usuários: Formulário para registrar usuários com nome, idade e e-mail.
-📋 Listagem Completa: Exibe todos os usuários de forma organizada.
-🗑️ Exclusão de Usuários: Permite remover usuários da lista com apenas um clique.
-🔒 Validação de E-mail: Trata erros para evitar e-mails duplicados.
-📱 Interface Responsiva: O layout se adapta a telas de desktop e mobile.
+- 📝 Cadastro de Usuários: Formulário para registrar usuários com nome, idade e e-mail.
+- 📋 Listagem Completa: Exibe todos os usuários de forma organizada.
+- 🗑️ Exclusão de Usuários: Permite remover usuários da lista com apenas um clique.
+- 🔒 Validação de E-mail: Trata erros para evitar e-mails duplicados.
+- 📱 Interface Responsiva: O layout se adapta a telas de desktop e mobile.
 
 ## 📸 Capturas de Tela
 
