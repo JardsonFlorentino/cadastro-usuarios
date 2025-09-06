@@ -63,8 +63,7 @@ export const MessageFeedback = styled.p`
   text-align: center;
   padding: 10px 20px;
   border-radius: 8px;
-  // A cor do texto e do fundo vai mudar dependendo da prop "type"
-  color: ${props => (props.type === 'success' ? '#28a745' : '#dc3545')}; /* Verde para sucesso, Vermelho para erro */
-  background-color: ${props => (props.type === 'success' ? '#d4edda' : '#f8d7da')}; /* Fundo suave para contraste */
+  color: ${props => (props.type === 'success' ? '#28a745' : '#dc3545')}; 
+  background-color: ${props => (props.type === 'success' ? '#d4edda' : '#f8d7da')};
   border: 1px solid ${props => (props.type === 'success' ? '#28a745' : '#dc3545')};
 `;
