@@ -28,9 +28,10 @@ export const ContainerUsers = styled.div`
 
 
   @media screen and (max-width: 768px) {
-        grid-template-columns: 1fr 1fr;
-    } 
-    
+       flex-direction: column;
+       grid-template-columns: 1fr;
+    }
+
 `
 
 export const CardUsers = styled.div`

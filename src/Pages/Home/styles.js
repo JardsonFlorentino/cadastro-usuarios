@@ -32,7 +32,8 @@ export const ContainerInputs = styled.div`
     gap: 20px;
 
     @media screen and (max-width: 768px) {
-        flex-direction: column;
+        flex-direction: column;        
+        align-items: justify-self;
     }
 
 `
